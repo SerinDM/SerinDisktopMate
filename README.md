@@ -1,0 +1,2 @@
+# SerinDisktopMate
+一个基于DesktopMate和MelonLoader的免费桌宠软件，形象基于哔哩哔哩UP主 @Serin塞琳
